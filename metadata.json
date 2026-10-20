@@ -1,0 +1,6 @@
+{
+  "name": "Word 2016 Segmentador y Semáforo de Bloques",
+  "description": "Web Add-in para Microsoft Word 2016 con panel lateral para segmentar documentos en bloques virtuales y evaluar secciones con semáforo de Datos, Experiencia y Tareas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
